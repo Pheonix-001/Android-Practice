@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
                     Toast.makeText(MainActivity.this, "List is not empty", Toast.LENGTH_SHORT).show();
                 } else {
+
                     Toast.makeText(MainActivity.this, "List is empty", Toast.LENGTH_SHORT).show();
                 }
             }
