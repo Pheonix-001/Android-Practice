@@ -66,5 +66,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Toast.makeText(this, "Welcome to this app", Toast.LENGTH_SHORT).show();
+
     }
 }
